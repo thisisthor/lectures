@@ -34,8 +34,15 @@ You can find themes [for Wix here](http://www.wix.com/website/templates)
 
 You can find themes [for Wordpress here](https://theme.wordpress.com)
 
+If you are adventurous you can install wordpress yourself on your hosting and have more control. (This is next level)
+
 ### [Blogger](https://www.blogger.com)
 ![](assets/blogger.jpg)
 ### Social Media
 Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channels
 
+## Examples
+
+### Eden Loweth
+
+### Elly Beckford 
