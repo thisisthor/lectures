@@ -1,5 +1,7 @@
 # Workshop 1 
 
+![](assets/fashion-drawing.png)
+
 ### Before you arrive 
 
 1. Registering a domain name or bring a credit card2. Registering your domain name.3. Think about what you want your site to be called.
