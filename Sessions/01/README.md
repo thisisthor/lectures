@@ -16,7 +16,6 @@
 
 ### PlatformsSquarespace 
 Wix 
-Instagram 
 Wordpress 
 Blogger### Social Media
 Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channels
