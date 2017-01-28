@@ -21,22 +21,21 @@
 ![](assets/squarespace.jpg)
 
 
-You can find themes here
+You can find themes [for Squarespace here](https://www.squarespace.com/templates/)
 	
 ### [Wix](https://www.wix.com)
 ![](assets/wix.jpg)
 
-You can find themes here
+You can find themes [for Wix here](http://www.wix.com/website/templates)
+
 
 ### [Wordpress](https://www.wordpress.com)
 ![](assets/wordpress.jpg)
 
-You can find themes here
+You can find themes [for Wordpress here](https://theme.wordpress.com)
 
 ### [Blogger](https://www.blogger.com)
 ![](assets/blogger.jpg)
-
-You can find themes here
 ### Social Media
 Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channels
 
