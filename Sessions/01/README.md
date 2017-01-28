@@ -1,5 +1,7 @@
 # Workshop 1 
 
+**Date:** Friday 3rd Feb
+
 ![](assets/fashion-website.jpg)
 
 ### Before you arrive 
@@ -17,14 +19,24 @@
 
 ### [Squarespace](https://www.squarespace.com)
 ![](assets/squarespace.jpg)
+
+
+You can find themes here
 	
 ### [Wix](https://www.wix.com)
 ![](assets/wix.jpg)
 
+You can find themes here
+
 ### [Wordpress](https://www.wordpress.com)
 ![](assets/wordpress.jpg)
 
-### [Wordpress](https://www.blogger.com)
+You can find themes here
+
+### [Blogger](https://www.blogger.com)
 ![](assets/blogger.jpg)
+
+You can find themes here
 ### Social Media
 Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channels
+
