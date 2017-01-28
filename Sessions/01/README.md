@@ -2,7 +2,7 @@
 
 ![](assets/fashion-website.jpg)
 
-### Before you arrive 
+## Before you arrive 
 
 1. Think about what you want your site to be called
 2. Register a domain name or bring a credit card (godaddy.com is cheap and straight forward) 3. Prepare some work so we can discuss the curation 
@@ -14,7 +14,11 @@
 3. How often will you update your site? Monthly? Weekly? Do you create digital content as you work at the moment?
 
 
-### PlatformsSquarespace 
+## Platforms
+
+[Squarespace ](https://www.squarespace.com)
+![](assets/squarespace.jpg)
+
 Wix 
 Wordpress 
 Blogger### Social Media
