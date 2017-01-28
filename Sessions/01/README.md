@@ -24,6 +24,7 @@
 ### [Wordpress](https://www.wordpress.com)
 ![](assets/wordpress.jpg)
 
-
-Blogger### Social Media
+### [Wordpress](https://www.blogger.com)
+![](assets/blogger.jpg)
+### Social Media
 Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channels
