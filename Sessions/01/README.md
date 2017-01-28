@@ -1,6 +1,6 @@
 # Workshop 1 
 
-![](assets/fashion-drawing.png)
+![](assets/fashion-drawing.jpg)
 
 ### Before you arrive 
 
