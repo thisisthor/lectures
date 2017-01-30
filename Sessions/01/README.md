@@ -63,6 +63,8 @@ Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channe
 
 ## Examples
 
-### Eden Loweth
+## Deliverables for formative
 
-### Elly Beckford 
+1. Purchase a domain and assign it to your website via a web builder
+2. Draft a minimum of 4 pages which include: Home page, Portfolio, Designer Bio and Contact page
+3. Your Designer Bio page should have a minimum of 500 words and a photograph of yourself or an image that represents you.
