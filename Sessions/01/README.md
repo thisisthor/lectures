@@ -38,7 +38,7 @@ If you are adventurous you can install wordpress yourself on your hosting and ha
 
 ### [Blogger](https://www.blogger.com)
 ![](assets/blogger.jpg)
-### Social Media
+## Social Media
 Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channels
 
 
@@ -46,13 +46,16 @@ Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channe
 
 ![](assets/content.jpg)
 
+
 ### Add images! 
 
 ![](assets/socialmediaimage.jpg)
 
+
 ### How often?
 
 ![](assets/socialmedia.jpg)
+
 
 ### What times are optimal?
 
