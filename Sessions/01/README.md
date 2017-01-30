@@ -41,7 +41,13 @@ If you are adventurous you can install wordpress yourself on your hosting and ha
 ### Social Media
 Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channels
 
+![](assets/content.jpg)
+
+![](assets/socialmediaimage.jpg)
+
 ![](assets/socialmedia.jpg)
+
+![](assets/howoften.jpg)
 
 ## Examples
 
