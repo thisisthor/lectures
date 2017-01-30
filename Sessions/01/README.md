@@ -63,6 +63,27 @@ Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channe
 
 ## Examples
 
+http://ludmillamaury.com
+
+![](assets/ludmillamaury.jpg)
+
+http://www.blackballoon.fr
+
+![](assets/blackballoon.jpg)
+
+http://jamesjoyce.co.uk
+
+![](assets/jamesjoyce.jpg)
+
+http://www.mondieu.nu
+
+![](assets/mondieu.jpg)
+
+### Typogrophy 
+
+### Colors 
+
+
 ## Deliverables for formative
 
 1. Purchase a domain and assign it to your website via a web builder
