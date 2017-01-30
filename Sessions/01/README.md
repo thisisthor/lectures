@@ -12,7 +12,7 @@
 .coms are more expensive than .co.uk ­ but still only £10 per year or so. However, there is no difference in terms of ‘weight'.
 
 ### In class we will discuss: 
-1. We’ll discuss different platforms and off­the­shelf web creation tools2. Do you want your site to be more findable and image­led (like instagram) or more of a portfolio site with editorial copy?
+1. The different platforms and off­the­shelf web creation tools2. Do you want your site to be more findable and image­led (like instagram) or more of a portfolio site with editorial copy?
 3. How often will you update your site? Monthly? Weekly? Do you create digital content as you work at the moment?
 
 ## Platforms
@@ -40,6 +40,8 @@ If you are adventurous you can install wordpress yourself on your hosting and ha
 ![](assets/blogger.jpg)
 ### Social Media
 Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channels
+
+![](assets/socialmedia.jpg)
 
 ## Examples
 
