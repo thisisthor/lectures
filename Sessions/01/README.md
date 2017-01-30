@@ -79,7 +79,14 @@ http://www.mondieu.nu
 
 ![](assets/mondieu.jpg)
 
-### Typogrophy 
+
+### Typography
+
+1. How do people read?
+2. Typography vocabulary: anatomy of a letter
+3. Fonts: serif, sans-serif etc, weights and styles
+4. The personality of fonts: expressive typography
+5. Web design 95% typography
 
 ### Colors 
 
