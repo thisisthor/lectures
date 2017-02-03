@@ -83,10 +83,9 @@ http://www.mondieu.nu
 ### Typography
 
 1. How do people read?
-2. Typography vocabulary: anatomy of a letter
-3. Fonts: serif, sans-serif etc, weights and styles
-4. The personality of fonts: expressive typography
-5. Web design 95% typography
+2. Fonts: serif, sans-serif etc, weights and styles
+3. The personality of fonts: expressive typography
+4. Web design 95% typography
 
 [19 best free fonts of 2017](http://www.digitalartsonline.co.uk/features/typography/19-best-free-fonts-of-2017/)
 
