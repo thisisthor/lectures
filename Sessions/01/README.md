@@ -81,7 +81,7 @@ http://www.mondieu.nu
 ![](assets/mondieu.jpg)
 
 
-### Typography
+## Typography
 
 1. How do people read?
 2. Fonts: serif, sans-serif etc, weights and styles
@@ -90,12 +90,16 @@ http://www.mondieu.nu
 
 [19 best free fonts of 2017](http://www.digitalartsonline.co.uk/features/typography/19-best-free-fonts-of-2017/)
 
+### Sans font
+
 ![](assets/sans.jpg)
+
+### Sans-serif font
 
 ![](assets/serif.jpg)
 
 
-### Colors 
+## Colors 
 
 ![](assets/colours.jpg)
 
