@@ -62,7 +62,7 @@ Are you on Twitter? Instagram? FB? We’ll discuss linking to your social channe
 
 ![](assets/howoften.jpg)
 
-### [Social Media Strategy building](http://alistapart.com/article/reclaiming-social-content-strategy-for-social-media ) 
+### Article about [Social Media Strategy building](http://alistapart.com/article/reclaiming-social-content-strategy-for-social-media ) (a great read if you really want to get into your social media)
 
 ## Examples
 
