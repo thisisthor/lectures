@@ -90,6 +90,10 @@ http://www.mondieu.nu
 
 [19 best free fonts of 2017](http://www.digitalartsonline.co.uk/features/typography/19-best-free-fonts-of-2017/)
 
+![](assets/sans.jpg)
+
+![](assets/serif.jpg)
+
 
 ### Colors 
 
