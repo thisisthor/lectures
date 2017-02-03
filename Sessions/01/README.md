@@ -95,7 +95,8 @@ http://www.mondieu.nu
 
 ![](assets/colours.jpg)
 
-https://coolors.co
+[Color swatch generator](https://coolors.co)
+
 
 # Workshop 
 
