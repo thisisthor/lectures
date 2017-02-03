@@ -1,4 +1,4 @@
-# Workshop 1 
+# Lecture 1 
 
 **Date:** Friday 3rd Feb
 
@@ -94,6 +94,15 @@ http://www.mondieu.nu
 ### Colors 
 
 ![](assets/colours.jpg)
+
+https://coolors.co
+
+# Workshop 
+
+1. Choose a website builder (if you have not already)
+2. Buy your domain (if you have not already)
+3. Sketch/wireframe/consider what should be on each of your pages (Home, Portfolio, Bio and Contact) 
+4. Start uploading content and lets discuss it
 
 
 ## Deliverables for formative
