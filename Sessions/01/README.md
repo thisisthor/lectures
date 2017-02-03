@@ -88,6 +88,9 @@ http://www.mondieu.nu
 4. The personality of fonts: expressive typography
 5. Web design 95% typography
 
+[19-best-free-fonts-of-2017](http://www.digitalartsonline.co.uk/features/typography/19-best-free-fonts-of-2017/)
+
+
 ### Colors 
 
 ![](assets/colours.jpg)
