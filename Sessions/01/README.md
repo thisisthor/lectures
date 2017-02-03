@@ -105,6 +105,8 @@ http://www.mondieu.nu
 
 ![](assets/colours.jpg)
 
+![](assets/colorlib.jpg)
+
 [Color swatch generator](https://coolors.co)
 
 
@@ -112,7 +114,7 @@ http://www.mondieu.nu
 
 1. Choose a website builder (if you have not already)
 2. Buy your domain (if you have not already)
-3. Sketch/wireframe/consider what should be on each of your pages (Home, Portfolio, Bio and Contact) 
+3. Sketch/wireframe/consider in word/on paper what should be on each of your pages (Home, Portfolio, Bio and Contact) 
 4. Start uploading content and lets discuss it
 
 
