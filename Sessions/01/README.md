@@ -14,6 +14,7 @@
 ### In class we will discuss: 
 1. The different platforms and off­the­shelf web creation tools2. Do you want your site to be more findable and image­led (like instagram) or more of a portfolio site with editorial copy?
 3. How often will you update your site? Monthly? Weekly? Do you create digital content as you work at the moment?
+4. Workshop / start building your content / branding  
 
 ## Platforms
 
