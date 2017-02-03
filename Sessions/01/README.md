@@ -90,6 +90,8 @@ http://www.mondieu.nu
 
 ### Colors 
 
+![](assets/colours.jpg)
+
 
 ## Deliverables for formative
 
