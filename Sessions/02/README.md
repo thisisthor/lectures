@@ -71,7 +71,7 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 
 ## Bio's 
 
-![](assets/imbest.gif)
+![](http://i.giphy.com/l0ExcNsINszxpw6E8.gif)
 
 1. Jazz yourself up 
 
