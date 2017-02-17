@@ -25,7 +25,7 @@
 
 things closer together will be seen as belonging together.
  
-![](assets/proximity.jpg =900px)
+![](assets/proximity.jpg =900)
 
 ###Similarity: 
 
