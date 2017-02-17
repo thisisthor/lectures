@@ -24,8 +24,6 @@
 ###Proximity: 
 
 things closer together will be seen as belonging together.
- 
-![](assets/proximity.jpg | =900)
 
 <img src="assets/proximity.jpg" width="900">
 
@@ -33,37 +31,38 @@ things closer together will be seen as belonging together.
 
 things with the same characteristics (shape, colour, shading, quality, orientation) will be seen as belonging together.
 
-![](assets/similarity.jpg)
+<img src="assets/similarity.jpg" width="900">
 
 ###Symmetry: 
 
 our mind tends to perceive objects as developing around a centre point and it’s pleased when it can divide those objects evenly and find balance.
 
-![](assets/symmetry.jpg)
+<img src="assets/symmetry.jpg" width="900">
 
 ###Figure-Ground: 
 
 a series of rules that tells our eyes what to focus on first, what is the shape and what is its background.
 
-![](assets/figure-ground.jpg)
+<img src="assets/figure-ground.jpg" width="900">
 
 ###“Common Fate”: 
 
 objects are perceived as lines that move along the smoothest path. Elements moving in the same direction seem more related than elements that are stationary or that move in different directions.
 
-![](assets/common-fate.jpg)
+<img src="assets/common-fate.jpg" width="900">
 
 ###Continuity: 
 
 the viewer’s eye will naturally follow the smoothest path.
 
-![](assets/continuity.jpg)
+<img src="assets/continuity.jpg" width="900">
 
 ###Closure: 
 
 when parts of a whole picture are missing, our perception fills in the visual gap.
 
-![](assets/closure.jpg)
+<img src="assets/closure.jpg" width="900">
+
 
 ### Deliverables for your formative 
 
