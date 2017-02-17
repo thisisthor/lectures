@@ -2,7 +2,7 @@
 
 **Date:** Friday 24th Feb
 
-![](assets/fashion-website.jpg)
+![](http://i.giphy.com/9WxhJU5SUVhao.gif)
 
 ### Recap from our previous lecture
 
