@@ -27,6 +27,8 @@ things closer together will be seen as belonging together.
  
 ![](assets/proximity.jpg | =900)
 
+<img src="assets/proximity.jpg" width="900">
+
 ###Similarity: 
 
 things with the same characteristics (shape, colour, shading, quality, orientation) will be seen as belonging together.
