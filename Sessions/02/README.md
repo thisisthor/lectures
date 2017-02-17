@@ -76,7 +76,14 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 
 ## More website exmaples
 
-## Tutorials on current progress 
+## Tutorials on current progress
+
+1. Is your website live? 
+* Have you got 10 pieces of work the portfolio page? 
+* Is your email working? 
+* Have your written your 500 word bio? 
+* Is your social media channels up to date and linked to on your website? 
+ 
 
 ### Deliverables for your formative 
 
