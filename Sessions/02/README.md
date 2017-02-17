@@ -74,6 +74,10 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 * Talk about your skills
 * Touch on your achivments (Competitions etc) 
 
+## More website exmaples
+
+## Tutorials on current progress 
+
 ### Deliverables for your formative 
 
 1. 10 pieces of work from your most recent work on the portfolio page
@@ -82,5 +86,6 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 
 
 **Sources**
-https://manifesto.co.uk/design-principles-gestalt-white-space-perception/
-https://blog.freelancersunion.org/2014/06/10/5-tips-writing-an-un-sucky-bio-and-about-page/
+
+1. https://manifesto.co.uk/design-principles-gestalt-white-space-perception/
+* https://blog.freelancersunion.org/2014/06/10/5-tips-writing-an-un-sucky-bio-and-about-page/
