@@ -64,18 +64,23 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 <img src="assets/closure.jpg" width="900">
 
 
+## Bio's 
+
+<img src="http://i.giphy.com/l0ExcNsINszxpw6E8.gif" width="900">
+
+1. Jazz yourself up 
+* Think about your audience (Employers, clients etc) 
+* Show some of your personality 
+* Talk about your skills
+* Touch on your achivments (Competitions etc) 
+
 ### Deliverables for your formative 
 
 1. 10 pieces of work from your most recent work on the portfolio page
 * Website must be live
 * Corresponding email that works 
 
-## Bio's 
-
-<img src="http://i.giphy.com/l0ExcNsINszxpw6E8.gif" width="900">
-
-1. Jazz yourself up 
-
 
 **Sources**
 https://manifesto.co.uk/design-principles-gestalt-white-space-perception/
+https://blog.freelancersunion.org/2014/06/10/5-tips-writing-an-un-sucky-bio-and-about-page/
