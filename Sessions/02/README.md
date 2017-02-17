@@ -2,7 +2,7 @@
 
 **Date:** Friday 24th Feb
 
-<img src="http://i.giphy.com/9WxhJU5SUVhao.gif" width="600">
+<img src="http://i.giphy.com/9WxhJU5SUVhao.gif" width="900">
 
 ### Recap from our previous lecture
 
@@ -71,7 +71,7 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 
 ## Bio's 
 
-<img src="http://i.giphy.com/l0ExcNsINszxpw6E8.gif" width="600" >
+<img src="http://i.giphy.com/l0ExcNsINszxpw6E8.gif" width="900">
 
 1. Jazz yourself up 
 
