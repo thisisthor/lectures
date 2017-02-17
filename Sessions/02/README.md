@@ -68,3 +68,13 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 1. 10 pieces of work from your most recent work on the portfolio page
 * Website must be live
 * Corresponding email that works 
+
+## Bio's 
+
+![](assets/imbest.gif)
+
+1. Jazz yourself up 
+
+
+**Sources**
+https://manifesto.co.uk/design-principles-gestalt-white-space-perception/
