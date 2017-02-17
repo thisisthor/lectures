@@ -4,6 +4,9 @@
 
 ![](http://i.giphy.com/9WxhJU5SUVhao.gif)
 
+
+<img src="http://i.giphy.com/9WxhJU5SUVhao.gif" align="left" height="400" width="400" >
+
 ### Recap from our previous lecture
 
 **We discussed**
