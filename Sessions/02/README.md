@@ -76,6 +76,24 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 
 ## More website exmaples
 
+http://simonfosterdesign.com/home/
+
+https://madebyjohannes.nl
+
+http://wearecolossale.com
+
+https://www.adamunderwear.com
+
+https://designobjekt.se
+
+http://www.stefanheinrichs.com/373
+
+http://stemme.co.nz
+
+http://lifebloodagency.com
+
+<img src="assets/lifeblood.jpg" width="900">
+
 ## Tutorials on current progress
 
 1. Is your website live? 
