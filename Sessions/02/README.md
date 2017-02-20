@@ -78,17 +78,31 @@ when parts of a whole picture are missing, our perception fills in the visual ga
 
 http://simonfosterdesign.com/home/
 
+<img src="assets/s-design.jpg" width="900">
+
 https://madebyjohannes.nl
+
+<img src="assets/johannes.jpg" width="900">
 
 http://wearecolossale.com
 
+<img src="assets/red-design.jpg" width="900">
+
 https://www.adamunderwear.com
+
+<img src="assets/boung-design.jpg" width="900">
 
 https://designobjekt.se
 
+<img src="assets/d-design.jpg" width="900">
+
 http://www.stefanheinrichs.com/373
 
+<img src="assets/stefan-design.jpg" width="900">
+
 http://stemme.co.nz
+
+<img src="assets/stemme-design.jpg" width="900">
 
 http://lifebloodagency.com
 
