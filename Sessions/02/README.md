@@ -15,7 +15,7 @@
 
 ### In class we will discuss: 
 1. Visual perceptions 
-* Examples of bio's (Be prepared to present your own for critique)
+* Bio's (Be prepared to present your own for critique)
 * More website examples
 * Tutorials on your current progress
 
