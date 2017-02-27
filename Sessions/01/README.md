@@ -92,6 +92,9 @@ http://www.mondieu.nu
 
 [19 best free fonts of 2017](http://www.digitalartsonline.co.uk/features/typography/19-best-free-fonts-of-2017/)
 
+
+[More interesting fonts](https://www.smashingmagazine.com/2017/02/30-free-fonts-with-personality-and-style/)
+
 ### Sans font
 
 ![](assets/sans.jpg)
