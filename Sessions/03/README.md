@@ -12,11 +12,11 @@
 
 ## Search Engine optimalisation
 
-**SEO for Squarespace**
+**SEO for Squarespace**<br />
 http://www.elleandcompanydesign.com/blog/2015/2/12/the-truth-about-squarespace-seo <br />
 https://support.squarespace.com/hc/en-us/articles/205814568-Increasing-your-site-s-visibility-to-search-engines
 
-**SEO for Weebly**
+**SEO for Weebly**<br />
 https://www.weebly.com/blog/seo-basics<br />
 https://hc.weebly.com/hc/en-us/articles/201672817-Improve-Your-Search-Ranking
 
