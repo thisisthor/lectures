@@ -28,12 +28,14 @@ https://hc.weebly.com/hc/en-us/articles/201672817-Improve-Your-Search-Ranking
 * Is your email working? 
 * Have your written your 500 word bio? 
 * Is your social media channels up to date and linked to on your website? 
- 
+* Is your brand coherent?
+
 
 ### Deliverables for your summative
 
 1. 10 pieces of work from your most recent work on the portfolio page
 * Website must be live
 * Corresponding email that works 
-* Is your social media added? 
+* Brand social media accounts
+* Optimised SEO
 
