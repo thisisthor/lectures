@@ -10,7 +10,7 @@
 8. Why prototyping?
 9. Wireframes and concept videos
 10. User testing
-
+11. Conclusion 
 
 ![](assets/design-vs-UX.jpg)
 
