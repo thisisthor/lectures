@@ -25,8 +25,6 @@
 
 ### Learning goals
 
-# Learning goals
-
 By the end of this course, you will be able to:
 
 1. Understand the difference between *qualitative* and *quantitative* **user research** and be familiar with a few techniques to perform both types of research.
@@ -41,10 +39,20 @@ By the end of this course, you will be able to:
 * **Communicate** your ideas both technically and in an engaging way.
 
 
-
+# What is UX?
 
 ![](assets/design-vs-UX.jpg)
 
-![](assets/iterative-process.png)
-
 ![](assets/xkcd-university-website.png)
+
+
+There are many ways of understanding **User eXperience**. 
+
+### Your turn
+
+Read [these UX definitions](http://www.allaboutux.org/ux-definitions) and pick your favourite one, or jot down your own definition / interpretation of UX, as you currently understand it. Later you will submit this as a part of your learning log.
+
+[![](https://pbs.twimg.com/media/CYHxskSWkAEjxzJ.jpg:large)](https://twitter.com/RaveWebMedia/status/685094380324130818)
+
+
+![](assets/iterative-process.png)
