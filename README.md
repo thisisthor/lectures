@@ -279,3 +279,61 @@ Base your personas on the people you have interviewed (eg: this persona is based
 If you desperately need a template, you could [use this as a starting point](http://www.ux-lady.com/diy-user-personas/) but don't just mindlessly copy it. Think of what **dimensions** will be useful in the design process.
 
 Please no gimmicky graphs, unless they're based on research data and tell us something useful about the cluster of people they describe. Remember to capture it and submit it as a part of your learning log.
+
+# Where does it hurt?
+
+Imagine you're a person (or a *persona*) going through your experience map.
+
+1. Define a **goal** for your person(a). What does s/he want to achieve through the experience?
+
+	In other words, what is the *destination* s/he wants to reach in your experience map?
+* Simulate the **experience flow**: go through each step with your team and discuss what happens to your person(a).
+* For each step, identify potential **pain points**.  
+
+	Add emoticons to each step, to visualise what's happening inside your person(a)'s head.
+
+	![](../04/assets/use-case-02.jpg)
+
+### The riskiest assumption
+
+Going through the *experience flow* and identifying its *pain points* will allow you to uncover the **riskiest assumptions** in your idea.
+
+An assumption is a prediction for what you think will happen. Will users really behave as you predicted in your experience map?
+
+Your riskiest assumption is both **core** to your idea and **most unknown**, meaning you have little data to prove it's valid. It's important to always test your **riskiest assumption first**.
+
+### Prototyping (to experiment)
+
+Prototype, either on paper or digitally (or both, if your experience requires physical supports) the part of your experience where the riskiest assumption lies.
+
+(Here's a [great video-example of paper Prototyping](https://www.youtube.com/watch?v=_g4GGtJ8NCY).
+
+A few tips:
+
+* Use **realistic content**.
+
+	As designers we're good at spotting *placeholder* text or images, however not everyone is familiar with them and sometimes people get hung up on details or ask `Why is that text in a foreign language?` (lorem ipsum).  
+
+	Avoid *lorem ipsum* and stock photos like the plague!
+
+	You can find [real maps from the NMM collection here](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing).
+
+* How good is **good enough**?
+
+	You want to strike a balance between the time it takes to build the prototype, and how close to the real thing you need it to be for your user-testing to be effective.
+
+	 When user-testing, it's crucial that you explain to people that this is **not a finished product** (even though it looks obvious to you) and that you are not testing colours, animations etc.
+
+* Avoid **linear click-throughs**.
+
+	Even if there's one single call to action per screen, your prototype should offer a couple of options to users.
+
+* Create **reusable** styles and symbols.
+
+	There are ways to do it in every prototyping tool.
+
+	If you catch yourself building the same button twice, that's an alarm bell: you should turn it into a *symbol* (or *smart object*, or whatever your tool of choice calls them).
+
+*	Use **real devices** when testing.
+
+	If you're designing a mobile app, get the prototype on your mobile. If you're designing a touchscreen experience, get the prototype on a tablet.
