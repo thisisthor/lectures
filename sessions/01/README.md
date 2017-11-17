@@ -33,7 +33,6 @@ http://bt3.raveweb.net/
 
 The internet and the web is not the same. What is the difference?
 
-
 ![theinternet](assets/theweb.png)
 
 **The Internet is the infrastructure.**
@@ -43,6 +42,22 @@ The web is just one type of traffic using that infrastructure.
 The internet is a massive collection of millions of computers, all linked together on a computer network.
 
 * The network allows all of the computers to communicate with one another.
+
+### What is a protocol?
+<!--
+* A set of rules governing the exchange or transmission of
+data between devices.
+* Email (simple mail transfer protocol – SMTP)  •  BitTorrent (peer-to-peer file sharing protocol)  •  VoIP (Voice over Internet Protocol) Skype
+* FTP (file transfer protocol)
+
+**Internet Protocol:**
+* Every machine on a network has a unique identifier.  
+* Computers use the unique identifier to send data to
+specific computers on a network.  
+
+**Web protocol:**
+* HTTP (Hyper Text Transfer Protocol - http://www.example.com)  
+* HTML (Hyper Text Mark-up Language - interlinks hypertext documents   over the internet) -->
 
 ### Open Source
 
