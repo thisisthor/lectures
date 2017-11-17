@@ -64,7 +64,7 @@ specific computers on a network.
 
 ### What is ARPAnet?
 
-![theinternet](assets/arpanet.png)
+![arpanet](assets/arpanet.png)
 
 * Advanced Research Projects Agency Network (ARPAnet)
 * Developed by the US Department of Defense between 1966-72
