@@ -11,7 +11,7 @@
 
 `Before class`
 
-### Bring in an item which symbols connectivity to you and explain why it does that in class.
+#### Bring in an item which symbols connectivity to you and explain why it does that in class.
 
 ### Introduction to the brief
 
@@ -30,6 +30,19 @@ http://bt3.raveweb.net/
 
 
 ### The History of the Web
+
+The internet and the web is not the same. What is the difference?
+
+
+![theinternet](assets/theweb.png)
+
+**The Internet is the infrastructure.**
+
+The web is just one type of traffic using that infrastructure.  
+
+The internet is a massive collection of millions of computers, all linked together on a computer network.
+
+* The network allows all of the computers to communicate with one another.
 
 ### Open Source
 
