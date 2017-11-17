@@ -2,20 +2,27 @@
 
 * Welcome
 * Introduction to the brief
-* A brief introduction to the history of the Web
+* The History of the Web
+* Open Source
 * Create mini-lessons in groups
 * Present mini-lessons
 
 # Welcome
 
-### Bring in an item which symbols connectivity to you and explain why it does that.
+`Before class`
+
+### Bring in an item which symbols connectivity to you and explain why it does that in class.
 
 # Introduction to the brief
+
+The students will be divided into their usual groups of approximately four members and each group will review its investigative Project from the previous unit DMT15103, which related to a subject relevant to IP TV digital media distribution and was connected to some degree with their present work activities.
+
+In this unit DMT15204’s group project activity, each Project group will produce a live webpage for a customer in their Project area; and each Project group member will work on a particular aspect of the customer’s requirements and implement its representation within the webpage. Each Project group will work together as a team, but the group will present contributions individually in a team format that they agree amongst themselves.
 
 * Individual project (50%)
 * Group project and website (50%)
 
-> Examples from 2015
+`Examples from 2015`
 
 http://bt1.raveweb.net/
 
@@ -30,7 +37,7 @@ http://bt3.raveweb.net/
 * What is DNS?
 * What is HTTP?
 * What is CSS?
-* What is XML? 
+* What is XML?
 
 
 # Present mini-lessons
