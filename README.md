@@ -2,7 +2,7 @@
 
 The World Wide Web continues to provide a foundation for the development of a broad range of increasingly influential and strategic technologies, supporting a large variety of consumer applications and services. Apprentices need to develop an understanding of how web technologies are used and applied for digital media and IP TV solutions.
 
-# Plan
+## Plan
 
 When | In class           | Homework
 ---- | ------------------ | --------
@@ -10,16 +10,16 @@ When | In class           | Homework
 [Tuesday<br>09.01](sessions/02)| <ul><li>Visual Perceptions <li>Target Audience | Why do you think design matters?
 [Wednesday<br>10.01](sessions/03)| <ul><li>Content before code <li>HTML & CSS <li>GitHub <li>Introduction to Wordpress | What do you think about open source?
 [Thursday<br>11.01](sessions/04)| <ul><li>Build your website <li>Tutorials | Work on your website
-[Friday<br>12.01](sessions/05)| <ul><li>Finish website | 
+[Friday<br>12.01](sessions/05)| <ul><li>Finish website |
 
-# Learning goals
+## Learning goals
 
 * To understand the principles, structures, development and management of web sites
 * Develop a working knowledge of client and server-side technologies, standards and protocols
 * Understand the role and requirements of hardware and infrastructure (such as servers and load-balancing requirements)
 * Demonstrate proficiency in using web tools for problem solving, and in the testing, troubleshooting and de-bugging of digital media solutions.
 
-# Rules of the road
+## Rules of the road
 
 * **Be present**. If you happen to be late or absent, make sure you email me about it before a session starts.
 * **Participate** in class debates and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
