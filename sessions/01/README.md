@@ -27,6 +27,10 @@ http://bt3.raveweb.net/
 # Create mini-lessons in groups
 
 * Show examples of some current web design trends
+* What is DNS?
+* What is HTTP?
+* What is CSS?
+* What is XML? 
 
 
 # Present mini-lessons
