@@ -7,13 +7,13 @@
 * Create mini-lessons in groups
 * Present mini-lessons
 
-# Welcome
+## Welcome
 
 `Before class`
 
 ### Bring in an item which symbols connectivity to you and explain why it does that in class.
 
-# Introduction to the brief
+### Introduction to the brief
 
 The students will be divided into their usual groups of approximately four members and each group will review its investigative Project from the previous unit DMT15103, which related to a subject relevant to IP TV digital media distribution and was connected to some degree with their present work activities.
 
@@ -29,9 +29,11 @@ http://bt1.raveweb.net/
 http://bt3.raveweb.net/
 
 
-# A brief introduction to the history of the web
+### The History of the Web
 
-# Create mini-lessons in groups
+### Open Source
+
+### Create mini-lessons in groups
 
 * Show examples of some current web design trends
 * What is DNS?
@@ -40,7 +42,7 @@ http://bt3.raveweb.net/
 * What is XML?
 
 
-# Present mini-lessons
+### Present mini-lessons
 
 It's a form of **cooperative** learning, that is: learning from *each other, together*.
 
