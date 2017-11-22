@@ -1,6 +1,7 @@
 # Today, Monday 8th of January
 
 * Welcome
+* Before class
 * Introduction to the brief
 * The History of the Web
 * Open Source
@@ -9,9 +10,11 @@
 
 ## Welcome
 
-`Before class`
+> `Before class`
 
 #### Bring in an item which symbols connectivity to you and explain why it does that in class.
+
+[![webhistory1](assets/theweb.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
 
 ### Introduction to the brief
 
@@ -45,7 +48,7 @@ The internet is a massive collection of millions of computers, all linked togeth
 
 ### What is a protocol?
 
-`Search the web and tell the class`
+ > `Search the web and tell the class`
 
 <!--
 * A set of rules governing the exchange or transmission of
