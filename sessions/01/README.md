@@ -14,7 +14,7 @@
 
 #### Bring in an item which symbols connectivity to you and explain why it does that in class.
 
-[![webhistory1](assets/theweb.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
+[![webhistory1](assets/youtube1.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
 
 ### Introduction to the brief
 
