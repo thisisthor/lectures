@@ -7,10 +7,10 @@ The World Wide Web continues to provide a foundation for the development of a br
 When | In class           | Homework
 ---- | ------------------ | --------
 [Monday<br>08.01](sessions/01)| <ul><li>Welcome<li>Introduction to brief <li>The History of the Web <li>Open Source | Find your fav online video streamer and talk about it
-[Tuesday<br>09.01](sessions/02)| <ul><li>Visual Perceptions <li>Target Audience | Why do you think design matters?
-[Wednesday<br>10.01](sessions/03)| <ul><li>Content before code <li>HTML & CSS <li>GitHub <li>Introduction to Wordpress | What do you think about open source?
+[Tuesday<br>09.01](sessions/02)| <ul><li>Visual Perceptions <li>Target Audience <li>Content before you code  | Why do you think design matters?
+[Wednesday<br>10.01](sessions/03)| <ul><li>HTML & CSS <li>GitHub <li>Introduction to Wordpress | What do you think about open source?
 [Thursday<br>11.01](sessions/04)| <ul><li>Build your website <li>Tutorials | Work on your website
-[Friday<br>12.01](sessions/05)| <ul><li>Finish website |
+[Friday<br>12.01](sessions/05)| <ul><li>Finish website <li>Tutorials |
 
 ## Learning goals
 
