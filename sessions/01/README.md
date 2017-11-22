@@ -69,6 +69,9 @@ specific computers on a network.
 
 ![arpanet](assets/arpanet.png)
 
+> `Search the web and tell the class`
+
+<!--
 * Advanced Research Projects Agency Network (ARPAnet)
 * Developed by the US Department of Defense between 1966-72
 * Used interlinked nodes
@@ -77,12 +80,11 @@ specific computers on a network.
 * Developed ‘packet switching’ which enables data to split into
 * smaller ‘packets’ of information..
 * This made ‘packets’ of information easier to sent over a computer network.
-* Packets of data could be routed around any part of the network that happened to be free, before getting reassembled at the other end.
+* Packets of data could be routed around any part of the network that happened to be free, before getting reassembled at the other end. -->
 
 ### What is the first message ever sent over the internet?
 
-`Search the web and tell the class`
-
+> `Search the web and tell the class`
 
 ### Open Source
 
