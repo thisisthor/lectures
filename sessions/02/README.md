@@ -123,3 +123,13 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 ### Do you *take* a photograph or *make* a photograph?
 
 > Every image embodies a way of seeing. Even a photograph. For photographs are not, as is often assumed, a mechanical record. Every time we look at a photograph, we are aware, however slightly, of the photographer selecting that sight from an infinity of other **possible sights**.
+
+
+### Topics!
+
+Who | What
+--- | -----------
+Group 1 | Closure & Symmetry
+Group 2 | Figure/ground relationship & Connectedness
+Group 3 | Proximity & Continuation
+Group 4 | Similarity & Past Experience 
