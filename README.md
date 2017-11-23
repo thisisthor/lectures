@@ -4,7 +4,7 @@ The World Wide Web continues to provide a foundation for the development of a br
 
 # Before class
 
-> `Watch this`
+> `Watch this and pay attention because we will have a quiz in class`
 
 [![webhistory1](assets/youtube1.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
 
