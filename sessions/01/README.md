@@ -12,9 +12,9 @@
 
 [![webhistory1](assets/youtube1.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
 
-### Introduce yourself and the item that represents connectivity to you
+### Introduce yourself and the item that represents connectivity to you (15 min)
 
-### Quiz time!
+### Quiz time! (30 min)
 
 1. When did the first computer come about?
 <!-- Second world war -->
@@ -38,7 +38,11 @@
 
 10. What is DNS?
 
-### Create mini-lessons
+### Create mini-lessons (1,5 hour)
+
+In small teams, you will research one web/internet concept or technique and prepare a **mini-lesson** (~15 minutes) to teach everyone else about it.
+
+Make your presentation **interactive**!
 
 It's a form of **cooperative** learning, that is: learning from *each other, together*.
 
@@ -52,14 +56,18 @@ Also, you get to practice and build confidence in your **communication skills**.
 
 At the end of your mini-lessons we'll give each other **feedback**. *Honest* feedback can hurt but it's through that (and practice) that we improve.
 
+### Topics!
+
 Who | What
 --- | -----------
 Group 1 | What is Open Source?
 Group 2 | What is HTML/CSS? Show examples!
 Group 3 | What is a protocol?
-Group 4 |
+Group 4 | Who is Tim-Berners Lee and what did he do?
 
-## Let's give each other *honest* **feedback**
+### Present your mini-lesson! (1 hour)
+
+## Let's give each other *honest* **feedback** (30 min)
 
 #### Mini-lesson **content**   
 
@@ -80,7 +88,7 @@ Group 4 |
 
 #### What can be **improved**?
 
-### Introduction to the brief
+### Introduction to the brief (1 hour)
 
 The students will be divided into their usual groups of approximately four members and each group will review its investigative Project from the previous unit DMT15103, which related to a subject relevant to IP TV digital media distribution and was connected to some degree with their present work activities.
 
