@@ -2,6 +2,17 @@
 
 The World Wide Web continues to provide a foundation for the development of a broad range of increasingly influential and strategic technologies, supporting a large variety of consumer applications and services. Apprentices need to develop an understanding of how web technologies are used and applied for digital media and IP TV solutions.
 
+# Before class
+
+> `Watch this`
+
+[![webhistory1](assets/youtube1.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
+
+### Bring in an item which symbols connectivity to you and explain why it does in the first lesson
+
+### See you on Monday 8th of January
+
+
 ## Plan
 
 When | In class           | Homework
