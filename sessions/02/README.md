@@ -1,5 +1,125 @@
 # Today, Tuesday 9th of January
 
+* What do you remember from yesterday?
+* Quiz
 * Visual Perceptions
 * Target Audience
 * Content before you code
+
+## What do you remember from yesterday?
+
+> Hot tip: Look at your mindmap from yesterday
+
+## Quiz time!
+
+1. What is micronet?
+
+2. What was the original purpose of the internet?
+
+3. When was the first ISP launched?
+
+4. What does the internet stand for?
+
+5. How is the internet different from the web?
+
+6. Who is Tim Bernes Lee and what did he do?
+
+7. What is hypertext?
+
+8. What does WWW stand for?
+
+9. What does HTTP stand for?
+
+10. What is Netscape?
+
+
+# Ways of seeing
+
+### Looking before creating
+
+One of the key skills of a designer is the ability to look at what surrounds you and **see the possibilities** for how things can be *framed*. By *training your mind* to see these possibilities, you'll be able to recognise them when you're out with your camera.
+
+> One should not only photograph something for what it is, but also for **what else** it is.
+
+> [Minor White](https://en.wikipedia.org/wiki/Minor_White), photographer
+
+### What else could this be?
+
+[![](https://c1.staticflickr.com/1/635/21793377515_d56a624435_b.jpg)](https://www.flickr.com/photos/foilman/21793377515/in/pool-facesinplaces/)
+
+When you're about to snap a picture, or when browsing through images, always ask yourself:
+
+*What else could this be?*
+
+### How do we *see*?
+
+![](assets/apple-eye.png)
+
+<!--[The Stage Theory Model](https://en.wikipedia.org/wiki/Atkinson–Shiffrin_memory_model):-->
+
+1. **Notice**   
+
+	Our senses pick up **stimuli** and pass them on to the brain.
+
+	In the case of vision, **light** enters our eyes and stimulates our **retina**. Notice how light that comes from the *top* of our vision field will make an impression at the *bottom* of our retina.
+
+	The optic nerve attached to the retina transfers that *raw data* to the brain.
+2. **Make sense**  
+
+	It is the brain that *flips* visual back to their natural orientation, to form *images* and **make sense** of what surrounds us.
+
+	When data has entered the brain, we have the option to discard it or continue thinking about it. Information stays for about 20-30 seconds in *short-term memory* before it is either forgotten or passed on to *long-term memory*.
+
+### What is the difference between *seeing* and *looking*?
+
+You should watch the series [Ways of Seeing](https://youtu.be/XShzabEv8bM?t=2m37s) by John Berger (and/or read [the book](https://en.wikipedia.org/wiki/Ways_of_Seeing)). All the following quotes come from the book.
+
+> Seeing comes before words. The child looks and recognises before it can speak.
+
+We *see* with our eyes but we *make sense* of it with our brains.
+
+Looking is the result of an **active decision**. We decide what to look at and what to ignore.
+
+> Each evening we *see* the sun set. We *know* that the earth is turning away from it. Yet the knowledge, the explanation, never quite fits the sight.
+
+### How does our brain *make sense* of the things we see?
+
+[![](assets/apples-cranach.jpg)](http://courtauld.ac.uk/gallery/collection/paintings/renaissance/lucas-cranach-the-elder-adam-and-eve)
+
+Are these apples? How do you [know](http://courtauld.ac.uk/gallery/collection/paintings/renaissance/lucas-cranach-the-elder-adam-and-eve)?
+
+* Habit
+* Convention
+* Past experiences
+* Mental models
+* Context
+* Contrast (noticeable differences)
+* Culture
+* Taste
+
+> Looking is less spontaneous and natural than we tend to believe [...] The way we see things is affected by what we *know* or what we *believe*.
+
+> We never look at just one thing; we are always looking at the **relation between things and ourselves**.
+
+> But there is also another sense in which seeing comes before words. It is seeing which establishes our place in the
+surrounding world; we explain that world with words, but words can never undo the fact that we are surrounded by it.
+
+
+### What is an *image*?
+
+A large percentage of what we see on a daily basis are not first-hand impressions, but *images*.
+
+[![](assets/pipe-magritte.jpg)](https://en.wikipedia.org/wiki/The_Treachery_of_Images)
+
+> An image is a sight that has been **recreated** or reproduced.
+
+### Can you see the similarities between an *eye* and a *camera*?
+
+Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
+
+[![](assets/camera-obscura.png)](https://en.wikipedia.org/wiki/Camera_obscura)
+
+
+### Do you *take* a photograph or *make* a photograph?
+
+> Every image embodies a way of seeing. Even a photograph. For photographs are not, as is often assumed, a mechanical record. Every time we look at a photograph, we are aware, however slightly, of the photographer selecting that sight from an infinity of other **possible sights**.

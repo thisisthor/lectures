@@ -1,8 +1,9 @@
 # Today, Monday 8th of January
 
 * Welcome
-* Introduction to the brief
+* Learning outcomes
 * Quiz
+* Introduction to the brief
 * Create mini-lessons in groups
 * Present mini-lessons
 
@@ -26,9 +27,9 @@
 
 4. What is ARPA and APRANET?
 
-5. What did Joseph Licklider do?
+5. Who is and what did Joseph Licklider do?
 
-6. What is packet switching?
+6. What is packet switching? How does it work?
 
 7. How many computers where connected in 1977?
 
@@ -60,10 +61,10 @@ At the end of your mini-lessons we'll give each other **feedback**. *Honest* fee
 
 Who | What
 --- | -----------
-Group 1 | What is Open Source?
-Group 2 | What is HTML/CSS? Show examples!
-Group 3 | What is a protocol?
-Group 4 | Who is Tim-Berners Lee and what did he do?
+Group 1 | What is a protocol? Explain the range of protocols that exists
+Group 2 | Who is Tim-Berners Lee and what did he do?
+Group 3 | What is Web 2.0?
+Group 4 | What is Open Source?
 
 ### Present your mini-lesson! (1 hour)
 
@@ -88,7 +89,7 @@ Group 4 | Who is Tim-Berners Lee and what did he do?
 
 #### What can be **improved**?
 
-### Introduction to the brief (1 hour)
+### Introduction to the brief (30 min)
 
 The students will be divided into their usual groups of approximately four members and each group will review its investigative Project from the previous unit DMT15103, which related to a subject relevant to IP TV digital media distribution and was connected to some degree with their present work activities.
 
@@ -102,3 +103,9 @@ In this unit DMT15204’s group project activity, each Project group will produc
 http://bt1.raveweb.net/
 
 http://bt3.raveweb.net/
+
+**Any questions at this time?**
+
+### Workshop
+
+Create mind-maps of today's learning to show the others
