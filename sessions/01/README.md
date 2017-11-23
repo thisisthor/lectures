@@ -1,7 +1,7 @@
 # Today, Monday 8th of January
 
 * Welcome
-* Learning outcomes
+* Learning goals for today
 * Quiz
 * Introduction to the brief
 * Create mini-lessons in groups

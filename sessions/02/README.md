@@ -1,10 +1,11 @@
 # Today, Tuesday 9th of January
 
+* Learning goals for today
 * What do you remember from yesterday?
-* Quiz
+* Quiz time!
 * Visual Perceptions
-* Target Audience
-* Content before you code
+* User personas
+* Conclusion
 
 ## What do you remember from yesterday?
 
@@ -12,7 +13,7 @@
 
 ## Quiz time!
 
-1. What is micronet?
+1. What is Micronet?
 
 2. What was the original purpose of the internet?
 
@@ -125,11 +126,49 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 > Every image embodies a way of seeing. Even a photograph. For photographs are not, as is often assumed, a mechanical record. Every time we look at a photograph, we are aware, however slightly, of the photographer selecting that sight from an infinity of other **possible sights**.
 
 
-### Topics!
+### Remember the mini-lessons from yesterday? Well, here is more!
 
 Who | What
 --- | -----------
 Group 1 | Closure & Symmetry
 Group 2 | Figure/ground relationship & Connectedness
 Group 3 | Proximity & Continuation
-Group 4 | Similarity & Past Experience 
+Group 4 | Similarity & Past Experience
+
+
+### Present your mini-lesson
+
+### User personas
+
+#### Why personas?
+
+Whenever we design for a group of users that are not ourselves (which means, always) we make assumptions about their behaviours, goals and needs, attitudes, skills etc.  
+
+A common tool to *get to know your assumptions* about a group of user is creating a user persona.
+
+[Alan Cooper introduced user personas](http://www.cooper.com/journal/2008/05/the_origin_of_personas) as a methodology to solve the **elastic user** problem. As designers, we are tempted to stretch the user to fit almost perfectly to whatever you are designing. The vagueness of the user causes many design failures, because the user is too elastic. We therefore need something much more specific.
+
+A user persona allows you to visualise users with **common behavioural patterns** in their purchasing decisions, use of technology or products, customer service preferences, lifestyle choices, etc.
+
+#### What dimensions are used to cluster users into a persona?
+
+1. **Behaviours**: what users do
+2. **Attitudes**: what users expect
+3. **Motivations**: what users want / need
+4. **Limitations**: what blocks them from doing what they want / need
+
+**Demographics** are not really that useful.
+
+#### Your turn
+
+Create (at least) two user personas for your interactive exhibit.
+
+Base your personas on the people you have interviewed (eg: this persona is based on four people we interviewed, and they all stated X and Y).
+
+If you desperately need a template, you could [use this as a starting point](http://www.ux-lady.com/diy-user-personas/) but don't just mindlessly copy it. Think of what **dimensions** will be useful in the design process.
+
+Please no gimmicky graphs, unless they're based on research data and tell us something useful about the cluster of people they describe.
+
+### Conclusion
+
+Create mind-maps of today's learning to show the others
