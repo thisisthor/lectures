@@ -1,20 +1,19 @@
 # Today, Monday 8th of January
 
 * Welcome
-* Before class
 * Introduction to the brief
-* The History of the Web
+* Quiz
 * Open Source
 * Create mini-lessons in groups
 * Present mini-lessons
 
 ## Welcome
 
-> `Before class`
-
-#### Bring in an item which symbols connectivity to you and explain why it does that in class.
+> `Before class you should have watched this film`
 
 [![webhistory1](assets/youtube1.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
+
+### Introduce yourself and the item that represents connectivity to you
 
 ### Introduction to the brief
 
@@ -32,7 +31,7 @@ http://bt1.raveweb.net/
 http://bt3.raveweb.net/
 
 
-### The History of the Web
+### Quiz
 
 The internet and the web is not the same. What is the difference?
 
@@ -45,6 +44,11 @@ The web is just one type of traffic using that infrastructure.
 The internet is a massive collection of millions of computers, all linked together on a computer network.
 
 * The network allows all of the computers to communicate with one another.
+
+
+
+
+
 
 ### What is a protocol?
 
