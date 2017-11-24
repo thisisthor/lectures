@@ -1,6 +1,8 @@
 # Welcome!
 
-* plan
+<img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="900">
+
+* Plan for the week
 * Learning Goals
 * Rules of the Road
 * Project
