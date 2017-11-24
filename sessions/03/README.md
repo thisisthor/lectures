@@ -3,11 +3,11 @@
 * Learning goals for today
 * Quiz time!
 * Let's talk about *content*
-* Introduction to Wordpress
 
 ### Learning goals for today
+* A final investigation into the history of the internet
 * Create a content map and start producing content
-* Get an introduction to Wordpress
+* Create mood-boards for your website
 
 ### What do you remember from yesterday? Lets go through it together.
 
@@ -23,7 +23,7 @@
 
 4. What kind of internet do you want to be a part of?
 
-# Let's talk about *content*
+# Now, let's talk about *content*
 
 When it comes to *content* you may hear designers (including myself) saying things like
 
@@ -143,3 +143,13 @@ There are tons of [moodboards on Pinterests tagges as *webdesign*](https://www.p
 Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://usepanda.com)!
 
 ![](assets/site-inspire.png)
+
+### Workshop (45 min)
+
+![connect](assets/mindmap.png)
+
+Create a mind-map of your learning today. We will walk around the classroom inspecting each others mind-map and give each other feedback with post-its.
+
+### Homework
+
+[Watch part 3 of the History of the web](https://www.youtube.com/watch?v=eYkXD_cGUYU) and be prepared to be quizzed tomorrow!
