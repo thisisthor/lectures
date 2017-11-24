@@ -19,6 +19,10 @@
 
 ### Learning goals for today
 
+* Learn about the history of the internet
+* Get familiar with different aspects of the web
+* How to create and present a mini-lesson
+
 ### Introduction to the brief (30 min)
 
 The students will be divided into their usual groups of approximately four members and each group will review its investigative Project from the previous unit DMT15103, which related to a subject relevant to IP TV digital media distribution and was connected to some degree with their present work activities.
@@ -83,7 +87,7 @@ At the end of your mini-lessons we'll give each other **feedback**. *Honest* fee
 Who | What
 --- | -----------
 Group 1 | What is a protocol? Explain the range of protocols that exists
-Group 2 | Who is Tim-Berners Lee and what did he do?
+Group 2 | What is web 1.0?
 Group 3 | What is Web 2.0?
 Group 4 | What is Open Source?
 
@@ -110,7 +114,9 @@ Group 4 | What is Open Source?
 
 #### What can be **improved**?
 
-### Workshop (30 min)
+### Workshop (45 min)
+
+![connect](assets/mindmap.png)
 
 Create a mind-map of your learning today. We will walk around the classroom inspecting each others mind-map and give each other feedback with post-its.
 
