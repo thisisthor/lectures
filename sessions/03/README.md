@@ -128,3 +128,18 @@ Here's an [example content strategy document](https://docs.google.com/document/d
 [![](assets/example.png)](https://codeyourapp.club)
 
 Taking a **content-first** approach for that project has been extremely useful, allowing us to clearly identify **who** we were writing for. With the **who** in mind, planning the content and designing the site became much easier. And it lead to a very successful recruitment drive: +285% booking!
+
+### Moodboard
+
+*As a team*: create a **mood-board** for your website design.
+
+* Use [Pinterest](https://www.pinterest.com) to assemble all your inspirations and ideas
+* Include at least 3 websites that you consider *worth copying* (and explain in the comments what you're going to *steal* from them and why)
+* Post screenshots of both macro-views (entire pages) as well as micro-views (details)
+* You can also post your own sketches, photos or any other material that can help you and us understand and talk about which direction your design is moving towards
+
+There are tons of [moodboards on Pinterests tagges as *webdesign*](https://www.pinterest.com/search/boards/?q=webdesign).
+
+Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://usepanda.com)!
+
+![](assets/site-inspire.png)
