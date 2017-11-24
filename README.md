@@ -38,6 +38,14 @@ When | In class           | Homework
 
 For this project you are meant to work in teams and together collaborate on making a website with Wordpress. Each team will be allocated a topic, for which they will investigate. After the research is completed you will create bespoke content and branding material for the website.
 
+> `Examples from 2015`
+
+http://bt1.raveweb.net/
+
+http://bt3.raveweb.net/
+
+**Any questions at this time?**
+
 Each team member should be allocated a role and a part of the website that they will focus on.
 
 ### Potential roles are:
@@ -54,6 +62,7 @@ These are just some examples and you might come up with your own.
 * A research pack which justifies the design choices you have made. This research pack should include: user personas, content map, market research, mood boards, wireframes, logo examples and typography examples.
 * A fully working website with bespoke content.
 * Brand guidelines
+
 
 
 ## Learning goals

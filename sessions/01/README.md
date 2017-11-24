@@ -15,6 +15,27 @@
 
 ### Introduce yourself and the item that represents connectivity to you (15 min)
 
+![connect](assets/connect.png)
+
+### Learning goals for today
+
+### Introduction to the brief (30 min)
+
+The students will be divided into their usual groups of approximately four members and each group will review its investigative Project from the previous unit DMT15103, which related to a subject relevant to IP TV digital media distribution and was connected to some degree with their present work activities.
+
+In this unit DMT15204’s group project activity, each Project group will produce a live webpage for a customer in their Project area; and each Project group member will work on a particular aspect of the customer’s requirements and implement its representation within the webpage. Each Project group will work together as a team, but the group will present contributions individually in a team format that they agree amongst themselves.
+
+* Individual project (50%)
+* Group project and website (50%)
+
+> `Examples from 2015`
+
+http://bt1.raveweb.net/
+
+http://bt3.raveweb.net/
+
+**Any questions at this time?**
+
 ### Quiz time! (30 min)
 
 1. When did the first computer come about?
@@ -89,23 +110,10 @@ Group 4 | What is Open Source?
 
 #### What can be **improved**?
 
-### Introduction to the brief (30 min)
+### Workshop (30 min)
 
-The students will be divided into their usual groups of approximately four members and each group will review its investigative Project from the previous unit DMT15103, which related to a subject relevant to IP TV digital media distribution and was connected to some degree with their present work activities.
+Create a mind-map of your learning today. We will walk around the classroom inspecting each others mind-map and give each other feedback with post-its.
 
-In this unit DMT15204’s group project activity, each Project group will produce a live webpage for a customer in their Project area; and each Project group member will work on a particular aspect of the customer’s requirements and implement its representation within the webpage. Each Project group will work together as a team, but the group will present contributions individually in a team format that they agree amongst themselves.
+### Homework
 
-* Individual project (50%)
-* Group project and website (50%)
-
-> `Examples from 2015`
-
-http://bt1.raveweb.net/
-
-http://bt3.raveweb.net/
-
-**Any questions at this time?**
-
-### Workshop
-
-Create mind-maps of today's learning to show the others
+[Watch part 2 of the History of the web](https://www.youtube.com/watch?v=1CsPHKJWiw0) and be prepared to be quizzed tomorrow!
