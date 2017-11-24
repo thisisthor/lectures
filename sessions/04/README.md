@@ -1,12 +1,22 @@
 # Today, Thursday 11th of January
 
+* Learning goals for today
 * What do you remember from yesterday?
 * What was your biggest learning from the video?
 * Lets install Wordpress!
 * Find a Wordpress theme to use for this project
 * Tutorials
 
-### What was your biggest learning and why?
+### Learning goals for today
+* How to install Wordpress, set up pages and posts.
+* How to install plug-ins and themes
+* Investigate what is a good logo for your project 
+
+### What do you remember from yesterday? Lets go through it together.
+
+> Hot tip: Look at your mind-map from yesterday
+
+### What was your biggest learning from the youtube video and why?
 
 ### Lets install Wordpress
 
