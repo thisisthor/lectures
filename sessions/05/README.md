@@ -11,7 +11,7 @@
 
 ### Tell us your favourite font, colour and why
 
-### Work on finishing your website
+## Work on finishing your website
 > Your project should be almost finished today
 
-## What is your biggest learning from this course? 
+## What is your biggest learning from this course?
