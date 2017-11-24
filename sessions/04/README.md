@@ -20,7 +20,7 @@
 
 ### Create branding material such as logos and imagery
 
-> Use your user persona to think about what colours, shapes and typography they might respond well to. 
+> Use your user persona to think about what colours, shapes and typography they might respond well to.
 
 ### Workshop (45 min)
 
@@ -30,4 +30,5 @@ Create a mind-map of your learning today. We will walk around the classroom insp
 
 ### Homework
 
-[Watch part 3 of the History of the web](https://www.youtube.com/watch?v=eYkXD_cGUYU) and be prepared to be quizzed tomorrow!
+* [Watch this film on colour theory](https://www.youtube.com/watch?v=_2LLXnUdUIc)
+* [Watch this film on typography](https://www.youtube.com/watch?v=sByzHoiYFX0)

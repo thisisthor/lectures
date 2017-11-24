@@ -152,4 +152,4 @@ Create a mind-map of your learning today. We will walk around the classroom insp
 
 ### Homework
 
-[Watch part 3 of the History of the web](https://www.youtube.com/watch?v=eYkXD_cGUYU) and be prepared to be quizzed tomorrow!
+[Watch this film on graphic design fundamentals theory](https://www.youtube.com/watch?v=YqQx75OPRa0)
