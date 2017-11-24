@@ -1,5 +1,7 @@
 # Today, Tuesday 9th of January
 
+<img src="https://media.giphy.com/media/RxR1KghIie2iI/giphy.gif" width="900">
+
 * Learning goals for today
 * What do you remember from yesterday?
 * Quiz time!
@@ -7,13 +9,17 @@
 * User personas
 * Conclusion
 
-## What do you remember from yesterday?
+### Learning goals
+* Get a deeper understanding of the history of the internet
+* Get familiar with visual perceptions and user personas
 
-> Hot tip: Look at your mindmap from yesterday
+### What do you remember from yesterday? Lets go through it together.
 
-## Quiz time!
+> Hot tip: Look at your mind-map from yesterday
 
-1. What is Micronet?
+### Quiz time!
+
+1. What was Micro-net?
 
 2. What was the original purpose of the internet?
 
@@ -135,8 +141,28 @@ Group 2 | Figure/ground relationship & Connectedness
 Group 3 | Proximity & Continuation
 Group 4 | Similarity & Past Experience
 
-
 ### Present your mini-lesson
+
+### Let's give each other *honest* **feedback** (30 min)
+
+#### Mini-lesson **content**   
+
+1. How did you **plan** your mini-lesson?
+* What were the **key points** you wanted to get across?
+* How did you decide to communicate them?
+* What **assumptions** have you made about what we already know?
+* How **interactive** was your mini-lesson? How was the audience meant to *participate*?
+
+#### **Delivery**
+
+1. What role did each **team member** play in delivering the mini-lesson?
+* How did you **practice** your mini-lesson?
+* How did your mini-lesson start? How did you *hook* your audience?
+* What was your **body language** like? Consider facial expressions, movements of the arms, eye contact with the audience, and posture.
+* What was your **voice** like? Consider speed of delivery, pausing, volume and pitch
+* Did you keep within the time?   
+
+#### What can be **improved**?
 
 ### User personas
 
@@ -161,14 +187,20 @@ A user persona allows you to visualise users with **common behavioural patterns*
 
 #### Your turn
 
-Create (at least) two user personas for your interactive exhibit.
+Create (at least) two user personas for your website.
 
-Base your personas on the people you have interviewed (eg: this persona is based on four people we interviewed, and they all stated X and Y).
+Base your personas on the people who are going use your website.
 
 If you desperately need a template, you could [use this as a starting point](http://www.ux-lady.com/diy-user-personas/) but don't just mindlessly copy it. Think of what **dimensions** will be useful in the design process.
 
 Please no gimmicky graphs, unless they're based on research data and tell us something useful about the cluster of people they describe.
 
-### Conclusion
+### Workshop (45 min)
 
-Create mind-maps of today's learning to show the others
+![connect](assets/mindmap.png)
+
+Create a mind-map of your learning today. We will walk around the classroom inspecting each others mind-map and give each other feedback with post-its.
+
+### Homework
+
+[Watch part 3 of the History of the web](https://www.youtube.com/watch?v=eYkXD_cGUYU) and be prepared to be quizzed tomorrow!

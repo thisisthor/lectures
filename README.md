@@ -63,8 +63,6 @@ These are just some examples and you might come up with your own.
 * A fully working website with bespoke content.
 * Brand guidelines
 
-
-
 ## Learning goals
 
 * To understand the principles, structures, development and management of web sites

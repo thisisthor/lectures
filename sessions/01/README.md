@@ -93,7 +93,7 @@ Group 4 | What is Open Source?
 
 ### Present your mini-lesson! (1 hour)
 
-## Let's give each other *honest* **feedback** (30 min)
+### Let's give each other *honest* **feedback** (30 min)
 
 #### Mini-lesson **content**   
 
