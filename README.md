@@ -1,18 +1,11 @@
 ## Before class
 
 > `Watch this and pay attention because we will have a quiz in class`
+> `Bring in an item which symbols connectivity to you and explain why it does in the first lesson`
 
 [![webhistory1](assets/youtube1.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
 
-> `Bring in an item which symbols connectivity to you and explain why it does in the first lesson`
-
 <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="900">
-
-* A breakdown of what you will learn this week
-* Plan for the week
-* Project
-* The brief learning goals
-* Rules of the Road
 
 ## During this course you will learn how to:
 * Learn about the history of the web
@@ -42,13 +35,13 @@ When | In class           | Homework
 [Thursday<br>11.01](sessions/04)| <ul><li>Build your website <li>Tutorials | <ul><li> [Watch this film on colour theory](https://www.youtube.com/watch?v=_2LLXnUdUIc) <li> [Watch this film on typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
 [Friday<br>12.01](sessions/05)| <ul><li>Finish website <li>Tutorials |
 
-## Project
+### Project
 
 For this project you are meant to work in teams and together collaborate on making a website with Wordpress. Each team will be allocated a topic, for which they will investigate. After the research is completed you will create bespoke content and branding material for the website.
 
 Each team member should be allocated a role and a part of the website that they will focus on.
 
-Potential roles are:
+### Potential roles are:
 * Team leader
 * Branding manager
 * Art director
@@ -58,8 +51,8 @@ Potential roles are:
 
 These are just some examples and you might come up with your own.
 
-You are expected to deliver:
-* A research pack which justifies the design choices you have made. (This research pack should include: user personas, content map, market research, mood boards, wireframes, logo examples, typography examples)
+### You are expected to deliver:
+* A research pack which justifies the design choices you have made. This research pack should include: user personas, content map, market research, mood boards, wireframes, logo examples and typography examples.
 * A fully working website with bespoke content.
 * Brand guidelines
 
