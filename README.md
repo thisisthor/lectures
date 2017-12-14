@@ -2,6 +2,8 @@
 
 > `Watch this and pay attention because we will have a quiz in class. Bring in an item which symbols connectivity to you and explain why it does in the first lesson`
 
+**Please remember to take rigorous notes whilst watching this film**
+
 [![webhistory1](assets/youtube1.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
 
 <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="900">
