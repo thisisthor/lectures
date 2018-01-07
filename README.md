@@ -32,9 +32,9 @@ When | In class           | Homework
 ---- | ------------------ | --------
 [Monday<br>08.01](sessions/01)| <ul><li>Welcome <li>Quiz time! <li>Introduction to brief <li>The History of the Web <li>Open Source | [Watch part 2 of the History of the web](https://www.youtube.com/watch?v=1CsPHKJWiw0)
 Tuesday 09.01 | Session with James Uren |
-[Wednesday<br>10.01](sessions/02)| <ul><li>Quiz time! <li>Visual Perceptions <li>User Personas <li>Content before you code  | [Watch part 3 of the History of the web](https://www.youtube.com/watch?v=eYkXD_cGUYU)
-[Thursday<br>11.01](sessions/03)| <ul><li>Quiz time! <li>HTML & CSS <li>Introduction to Wordpress | [Watch this film on graphic design fundamentals theory](https://www.youtube.com/watch?v=YqQx75OPRa0)
-[Friday<br>12.01](sessions/04)| <ul><li>Build your website <li>Tutorials | <ul><li> [Watch this film on colour theory](https://www.youtube.com/watch?v=_2LLXnUdUIc) <li> [Watch this film on typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
+[Wednesday<br>10.01](sessions/02)| <ul><li>Quiz time! <li>Visual Perceptions <li>User Personas <li>Content before you code  | <ul><li> [Watch part 3 of the History of the web](https://www.youtube.com/watch?v=eYkXD_cGUYU) <li> [Watch this film on graphic design fundamentals theory](https://www.youtube.com/watch?v=YqQx75OPRa0)
+[Thursday<br>11.01](sessions/03)| <ul><li>Quiz time! <li>HTML & CSS <li>Introduction to Wordpress | <ul><li> [Watch this film on colour theory](https://www.youtube.com/watch?v=_2LLXnUdUIc) <li> [Watch this film on typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
+[Friday<br>12.01](sessions/04)| <ul><li>Build your website <li>Tutorials |
 
 ### Project
 
