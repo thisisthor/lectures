@@ -13,9 +13,11 @@
 
 [![webhistory1](assets/youtube1.png)](https://www.youtube.com/watch?v=1UStbvRnwmQ)
 
-### Introduce yourself and the item that represents connectivity to you (15 min)
+### Introduce yourself to each other in pairs. After this you will introduce your peer to the class. (15 min)
 
 ![connect](assets/connect.png)
+
+### What are your expectations for this week? 
 
 ### Learning goals for today
 
@@ -114,7 +116,11 @@ Group 4 | What is Open Source?
 
 #### What can be **improved**?
 
-### Workshop (45 min)
+### Workshop: Start group work!
+
+* Begin to research your topics in groups.
+
+### Workshop: Mindmap (45 min)
 
 ![connect](assets/mindmap.png)
 
@@ -122,4 +128,4 @@ Create a mind-map of your learning today. We will walk around the classroom insp
 
 ### Homework
 
-[Watch part 2 of the History of the web](https://www.youtube.com/watch?v=1CsPHKJWiw0) and be prepared to be quizzed tomorrow!
+[Watch part 2 of the History of the web](https://www.youtube.com/watch?v=1CsPHKJWiw0) and be prepared to be on Wednesday!
