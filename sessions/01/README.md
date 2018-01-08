@@ -17,7 +17,7 @@
 
 ![connect](assets/connect.png)
 
-### What are your expectations for this week? 
+### What are your expectations for this week?
 
 ### Learning goals for today
 
@@ -116,9 +116,13 @@ Group 4 | What is Open Source?
 
 #### What can be **improved**?
 
-### Workshop: Start group work!
+### Workshop: Start group work! (1 hour)
 
-* Begin to research your topics in groups.
+* 1: The mobile communications network as a broadcast platform.
+* 2: The future of content distribution.
+* 3: How is virtual reality and or augmented reality going to change the world?
+* 4: IOT EDGE COMPETITION
+* 5: Drones - Surveillance, delivery or safety?
 
 ### Workshop: Mindmap (45 min)
 
