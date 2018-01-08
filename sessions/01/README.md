@@ -124,8 +124,9 @@ Group 4 | What is Open Source?
 * 4: IOT EDGE COMPETITION
 * 5: Drones - Surveillance, delivery or safety?
 
-**Start creating a mood-board and mind-map of your topic area**
+**Start creating a mood-board, content-map and mind-map of your topic area**
 
+* Content map: What type of content do you need?
 
 
 ### Workshop: Mindmap (45 min)
