@@ -62,6 +62,7 @@ When you're about to snap a picture, or when browsing through images, always ask
 
 ![appleeye](assets/apple-eye.png)
 
+
 <!--[The Stage Theory Model](https://en.wikipedia.org/wiki/Atkinson–Shiffrin_memory_model):-->
 
 1. **Notice**   
