@@ -196,9 +196,13 @@ If you desperately need a template, you could [use this as a starting point](htt
 
 Please no gimmicky graphs, unless they're based on research data and tell us something useful about the cluster of people they describe.
 
-### Workshop (45 min)
+### Workshop:
 
-![connect](assets/mindmap.png)
+#### Where are you with your group work? 
+
+### Workshop: Mindmap (45 min)
+
+![connect](https://github.com/thisisthor/lectures/blob/DMT2018/sessions/02/assets%20/mindmap.png)
 
 Create a mind-map of your learning today. We will walk around the classroom inspecting each others mind-map and give each other feedback with post-its.
 
