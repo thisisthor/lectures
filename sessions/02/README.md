@@ -165,7 +165,7 @@ Group 4 | Similarity & Past Experience
 
 #### What can be **improved**?
 
-### User personas
+## Workshop: User personas
 
 #### Why personas?
 
@@ -196,7 +196,7 @@ If you desperately need a template, you could [use this as a starting point](htt
 
 Please no gimmicky graphs, unless they're based on research data and tell us something useful about the cluster of people they describe.
 
-### Workshop:
+### Workshop: Website
 
 #### Where are you with your group work?
 
