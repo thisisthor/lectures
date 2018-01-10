@@ -1,4 +1,4 @@
-# Today, Tuesday 9th of January
+# Today, Wednesday 10th of January
 
 <img src="https://media.giphy.com/media/RxR1KghIie2iI/giphy.gif" width="900">
 
@@ -198,7 +198,7 @@ Please no gimmicky graphs, unless they're based on research data and tell us som
 
 ### Workshop:
 
-#### Where are you with your group work? 
+#### Where are you with your group work?
 
 ### Workshop: Mindmap (45 min)
 
