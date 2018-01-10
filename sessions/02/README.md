@@ -60,7 +60,7 @@ When you're about to snap a picture, or when browsing through images, always ask
 
 ### How do we *see*?
 
-![appleeye](assets/apple-eye.png)
+![appleeye](https://github.com/thisisthor/lectures/blob/DMT2018/sessions/02/assets%20/apple-eye.png)
 
 
 <!--[The Stage Theory Model](https://en.wikipedia.org/wiki/Atkinson–Shiffrin_memory_model):-->
