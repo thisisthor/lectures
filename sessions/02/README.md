@@ -21,24 +21,43 @@
 
 1. What was Micro-net?
 
+
+
 2. What was the original purpose of the internet?
+
+To spread research
 
 3. When was the first ISP launched?
 
+1988 - the world
+
 4. What does the internet stand for?
+
+internetworking
 
 5. How is the internet different from the web?
 
+the internet is the high way, the web is the cars
+
 6. Who is Tim Bernes Lee and what did he do?
+
+HTTP ::
 
 7. What is hypertext?
 
+links within and other documents - SEO
+
 8. What does WWW stand for?
+
+World wide web
 
 9. What does HTTP stand for?
 
+Hypertext transfer protocol
+
 10. What is Netscape?
 
+The first browser
 
 # Ways of seeing
 
@@ -72,6 +91,7 @@ When you're about to snap a picture, or when browsing through images, always ask
 	In the case of vision, **light** enters our eyes and stimulates our **retina**. Notice how light that comes from the *top* of our vision field will make an impression at the *bottom* of our retina.
 
 	The optic nerve attached to the retina transfers that *raw data* to the brain.
+
 2. **Make sense**  
 
 	It is the brain that *flips* visual back to their natural orientation, to form *images* and **make sense** of what surrounds us.
@@ -164,6 +184,8 @@ Group 4 | Similarity & Past Experience
 * Did you keep within the time?   
 
 #### What can be **improved**?
+
+#### Take a picture during your break and send it do me! t.njamo@rave.ac.uk
 
 ## Workshop: User personas
 
