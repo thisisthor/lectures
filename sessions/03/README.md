@@ -3,25 +3,24 @@
 * Learning goals for today
 * Quiz time!
 * Let's talk about *content*
+* Lets talk about Mood-boards!
+* Lets talk about Wordpress!
 
 ### Learning goals for today
 * A final investigation into the history of the internet
 * Create a content map and start producing content
 * Create mood-boards for your website
+* Install Wordpress
 
 ### What do you remember from yesterday? Lets go through it together.
 
 > Hot tip: Look at your mind-map from yesterday
 
-## Quiz time!
+## Discussion time!
 
-1. What was GeoCities?
+1. How do you feel about privacy?
 
-2. How is broadband different from dial-up?
-
-3. How do you feel about privacy?
-
-4. What kind of internet do you want to be a part of?
+2. What kind of internet do you want to be a part of?
 
 # Now, let's talk about *content*
 
@@ -146,7 +145,7 @@ Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://us
 
 ### Workshop: Wordpress install & theme
 
-* Lets install Wordpress 
+* Lets install Wordpress
 * Find a suitable theme
 
 ### Workshop (45 min)
