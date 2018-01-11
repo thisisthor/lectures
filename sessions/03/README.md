@@ -148,6 +148,8 @@ Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://us
 * Lets install Wordpress
 * Find a suitable theme
 
+Here you can [find slide deck inspiration](https://slidebean.com/presentation-templates/) 
+
 ### Workshop (45 min)
 
 ![connect](assets/mindmap.png)
