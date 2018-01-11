@@ -222,6 +222,12 @@ Please no gimmicky graphs, unless they're based on research data and tell us som
 
 #### Where are you with your group work?
 
+* Who is creating the Sitemap?
+* Who are creating what content?
+* Who is going to be in charge of design?
+* Who is making sure that the design links with your user personas? 
+
+
 ### Workshop: Mindmap (45 min)
 
 ![connect](https://github.com/thisisthor/lectures/blob/DMT2018/sessions/02/assets%20/mindmap.png)

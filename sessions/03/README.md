@@ -1,4 +1,4 @@
-# Today, Wednesday 10th of January
+# Today, Thursday 11th of January
 
 * Learning goals for today
 * Quiz time!
@@ -112,7 +112,7 @@ By the way, [*copywriting*](http://dictionary.reference.com/browse/copywriting) 
 
 ### Your turn
 
-1. Open [this GDoc](https://docs.google.com/document/d/1iS5VeEjtzpjkFraSJ0O80NnmLQaBZIo_FNztTVoONUM/edit?usp=sharing) and `File` > `Make a copy...`
+1. Open [this GDoc](https://docs.google.com/document/d/12k6g32253ngZzHVAZTWJvgGxB73UiamsronQoGbvYy8/edit?usp=sharing) and `File` > `Make a copy...`
 * Rename your copy by adding your first name at the beginning, eg `Billie - Content strategy`.
 * Change the sharing settings for your document so that `Anyone with the link can comment`.
 
@@ -129,7 +129,7 @@ Here's an [example content strategy document](https://docs.google.com/document/d
 
 Taking a **content-first** approach for that project has been extremely useful, allowing us to clearly identify **who** we were writing for. With the **who** in mind, planning the content and designing the site became much easier. And it lead to a very successful recruitment drive: +285% booking!
 
-### Moodboard
+### Workshop: Moodboard
 
 *As a team*: create a **mood-board** for your website design.
 
@@ -143,6 +143,11 @@ There are tons of [moodboards on Pinterests tagges as *webdesign*](https://www.p
 Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://usepanda.com)!
 
 ![](assets/site-inspire.png)
+
+### Workshop: Wordpress install & theme
+
+* Lets install Wordpress 
+* Find a suitable theme
 
 ### Workshop (45 min)
 
